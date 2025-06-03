@@ -1,0 +1,64 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "heading": "Limits",
+      "summary": "Limits define the behavior of functions as they approach specific points.",
+      "page_ref": null
+    },
+    {
+      "id": 2,
+      "heading": "Derivatives",
+      "summary": "Derivatives measure the rate of change of a function.",
+      "page_ref": null
+    },
+    {
+      "id": 3,
+      "heading": "Definite Integral",
+      "summary": "Definite integrals calculate the area under a curve between two points.",
+      "page_ref": null
+    },
+    {
+      "id": 4,
+      "heading": "Indefinite Integral",
+      "summary": "Indefinite integrals represent the antiderivative of a function.",
+      "page_ref": null
+    },
+    {
+      "id": 5,
+      "heading": "Mean Value Theorem",
+      "summary": "States that a function must have at least one point where the derivative equals the average rate of change.",
+      "page_ref": null
+    },
+    {
+      "id": 6,
+      "heading": "Fundamental Theorem of Calculus",
+      "summary": "Connects differentiation and integration, showing they are inverse processes.",
+      "page_ref": null
+    },
+    {
+      "id": 7,
+      "heading": "Continuity",
+      "summary": "A function must be continuous at a point for the limit to equal the function's value.",
+      "page_ref": null
+    },
+    {
+      "id": 8,
+      "heading": "Chain Rule",
+      "summary": "Used to differentiate composite functions, applying the derivative to the outer function.",
+      "page_ref": null
+    },
+    {
+      "id": 9,
+      "heading": "Product and Quotient Rules",
+      "summary": "Rules for differentiating products and quotients of functions.",
+      "page_ref": null
+    },
+    {
+      "id": 10,
+      "heading": "Applications of Derivatives",
+      "summary": "Derivatives are used for finding tangents, optimization, and motion analysis.",
+      "page_ref": null
+    }
+  ]
+}

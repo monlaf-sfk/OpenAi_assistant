@@ -1,0 +1,5 @@
+.env
+.DS_store
+assistant_id.txt
+venv
+
