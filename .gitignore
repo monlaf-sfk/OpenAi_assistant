@@ -3,3 +3,7 @@
 assistant_id.txt
 venv
 
+.idea
+# Python
+__pycache__/
+.assistant_id
